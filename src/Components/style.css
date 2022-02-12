@@ -1,0 +1,14 @@
+.main {
+    width: 70rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0 auto;
+
+}
+
+.main h2 {
+    margin: 4rem;
+    overflow: hidden;
+}
